@@ -5,6 +5,10 @@ VisualStudioVersion = 16.0.29311.281
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TalentoHumano", "TalentoHumano\TalentoHumano.csproj", "{2D0F2638-CDC6-4BA6-B7A9-BFA8764297F1}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FaltanteCaja", "FaltanteCaja\FaltanteCaja.csproj", "{91042C38-1A49-4883-A143-59F96F4AE28B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "sweetcoffee", "sweetcoffee\sweetcoffee.csproj", "{981199C3-7FB7-48E3-934E-9BC69EB484C8}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +19,14 @@ Global
 		{2D0F2638-CDC6-4BA6-B7A9-BFA8764297F1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2D0F2638-CDC6-4BA6-B7A9-BFA8764297F1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2D0F2638-CDC6-4BA6-B7A9-BFA8764297F1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{91042C38-1A49-4883-A143-59F96F4AE28B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{91042C38-1A49-4883-A143-59F96F4AE28B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{91042C38-1A49-4883-A143-59F96F4AE28B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{91042C38-1A49-4883-A143-59F96F4AE28B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{981199C3-7FB7-48E3-934E-9BC69EB484C8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{981199C3-7FB7-48E3-934E-9BC69EB484C8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{981199C3-7FB7-48E3-934E-9BC69EB484C8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{981199C3-7FB7-48E3-934E-9BC69EB484C8}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

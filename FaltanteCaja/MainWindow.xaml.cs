@@ -11,25 +11,17 @@ using System.Windows.Media;
 using System.Windows.Media.Imaging;
 using System.Windows.Navigation;
 using System.Windows.Shapes;
-using Oracle.ManagedDataAccess.Client;
 
-namespace TalentoHumano
+namespace FaltanteCaja
 {
     /// <summary>
     /// Interaction logic for MainWindow.xaml
     /// </summary>
-    /*
-     * PRUEBA
-    */
     public partial class MainWindow : Window
     {
         public MainWindow()
         {
             InitializeComponent();
-            OracleConnection con = new OracleConnection();
-            con.ConnectionString = "User Id=INDIGO;Password=INDIGO;Data Source=//192.168.0.2:1521/INDIGO";
-            con.Open();
-            MessageBox.Show("Conectado a : " + con.ServerVersion);
         }
     }
 }
